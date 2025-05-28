@@ -1,6 +1,6 @@
 Thought Process
-Inout
-List of objects that
+Input
+List of objects 
 
 Process
 Iterate through the objects in the list 
