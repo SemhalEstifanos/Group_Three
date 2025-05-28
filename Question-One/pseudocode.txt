@@ -1,0 +1,20 @@
+Thought Process
+Inout
+List of objects that
+
+Process
+Iterate through the objects in the list 
+Check if the personnel required id less than or equal to 4.
+Check if the history record is less than or equal to 4
+Check if the demand is “High”
+If so assign the highest priority serving
+or 
+Check if the personnel is greater than 4 and less than 10
+Check if the history record is greater than 4 and less than 10
+Check if the demand is “Medium”
+If not
+Assign the lowest priority  for servicing.
+
+Out put
+String:Assigning the  priority machine to be serviced 
+
