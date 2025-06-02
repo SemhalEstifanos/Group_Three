@@ -15,6 +15,6 @@ Process
 6.Check if the personnel is greater than 4 and less than 10
 7.Check if the history record is greater than 4 and less than 10
 8.Check if the demand is “Medium”
-10.If not,assign the lowest priority  for servicing.
+9.If not,assign the lowest priority  for servicing.
 
 
