@@ -7,8 +7,8 @@ String:Assigning the  priority machine to be serviced
 
 
 Process
-1.Go through each of the objects in the list 
-2.Check if the personnel required id less than or equal to 4.
+1.Start by going through each of the objects in the list 
+2.Check if the personnel required id less than or equal to 4
 3.Check if the history record is less than or equal to 4
 4.Check if the demand is “High”
 5.If so assign the highest priority serving 
